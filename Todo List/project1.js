@@ -33,6 +33,7 @@ addTask.addEventListener('click', function() {
     
     checkButton.addEventListener('click', function(e) {
 
+        console.log(checkButton.parentElement);
         checkButton.parentElement.style.textDecoration = "line-through";
     
     });

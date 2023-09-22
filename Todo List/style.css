@@ -46,7 +46,6 @@ input {
 #add-task:hover {
     background-color: green;
     color: white;
-
 }
 
 #add-task:active {
@@ -105,3 +104,5 @@ input {
     color: white; 
     background-color: red;
 }
+
+
